@@ -14,6 +14,6 @@
 |10| 8/2/2567|[Classes and Inheritance ]()|
 |11| 15/2/2567|[Polymorphism]()|
 |12| 22/2/2567|[Interface]()|
-|13| 29/2/2567|[- Generics<br>- Delegate<br>- Events]()|
-|14| 7/3/2567|[- Conversions<br>- Operator Overloading<br>- Extension Methods]()|
-|15| 14/3/2567|[- Exceptions<br>- File handling]()|
+|13| 29/2/2567|[Generics, Delegate, Events]()|
+|14| 7/3/2567|[Conversions, Operator Overloading, Extension Methods]()|
+|15| 14/3/2567|[Exceptions, File handling]()|
