@@ -9,8 +9,8 @@
 |5| 5/1/2567|[Type](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Week-05)| [Lab-02 Type](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-02) <br> [Lab-03 dotnet cli]([./](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-03))|
 |6| 11/1/2567|[CSharp Variables](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Week-06)|[Lab-04 Variables](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-04)|
 |7| 11/1/2567|[CSharp Class (part 1)](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Week-07)|[Lab-05 Class I](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-05)|
-|8| 18/1/2567|[CSharp Class (part 2)](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Week-08)|
-|9|  1/2/2567|[CSharp Class (part 3)](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Week-09)|
+|8| 18/1/2567|[CSharp Class (part 2)](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Week-08)|[Lab-06 Class II](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-06)
+|9|  1/2/2567|[CSharp Class (part 3)](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Week-09)|[Lab-07 Class III](https://github.com/03376836-OOP-2566/03376836-OOP-2566-Lab-07)
 |10| 8/2/2567|[Classes and Inheritance ]()|
 |11| 15/2/2567|[Polymorphism]()|
 |12| 22/2/2567|[Interface]()|
